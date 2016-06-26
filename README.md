@@ -1,3 +1,2 @@
-## My website
-This is my website!
-And there are some math equation.
+# Personal webpage
+I am learning how to generate my personal webpage using Github Pages and Jekyll.
