@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}
+= Lénaïc Chizat
+
+~~~
+{}{img_left}{photo.png}{photo de lenaic}{WIDTHpx}{220px}{photo.png}
+PhD Student at [http://www.math.ens.fr/ DMA, École Normale Supérieure]
+
+Member of [https://team.inria.fr/mokaplan/ Mokaplan] INRIA team
+
+Supervised by [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard]
+
++lenaic.chizat@ens.fr+
+
+[https://github.com/lchizat Git-Hub repository]
+~~~
+
+== Research interests
+Applied mathematics: convex analysis, variational problems and optimisation algorithms. 
+
+So far, I have mostly worked on extensions of the optimal transport problem.
+
+== Submitted for publication
+C., Peyré, Schmitzer, Vialard,, Unbalanced optimal transport: geometry and Kantorovich formulation, Preprint [https://arxiv.org/abs/1508.05216 (ArXiv link)]
+
+_, Scaling Algorithms for Unbalanced Transport Problems, Preprint [https://arxiv.org/abs/1607.05816 (ArXiv link)]
+
+== Publications
+
+C., Peyré, Schmitzer, Vialard, An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics, Found Comput Math (2016). 
