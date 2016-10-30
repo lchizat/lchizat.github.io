@@ -1,13 +1,32 @@
 # jemdoc: menu{MENU}{curriculum.html}
 = Curriculum Vitae
 
+I was born in 1990 and grew up among the beautiful hills of [http://www.pays-beaujolais.com/page/images/Organismes/geopark/Belmont_Pierres_Dorees.JPG Beaujolais] in France.
 
-== Education
-2014 - [http://www.ens-cachan.fr ENS Cachan] (France) \n
-Graduated from MVA master program
+== In universities
+:{2014 - [http://www.ens-cachan.fr ENS Cachan] (France)}
+Graduated from MVA master program: mathematics, vision, machine learning
 
-2011 - [http://www.caltech.edu Caltech] (California) \n 
- Seismological laboratory, exchange program of 6 months
+:{2013 - [http://www.mines-paristech.fr École des Mines] (Paris, France)}
+ Degree of science and executive engineering (major: industrial organisation)
 
-2010/2013 - [http://www.mines-paristech.fr École des Mines] (Paris, France)\n
- Degree of science and executive engineering 
+:{2011 - [http://www.caltech.edu Caltech] (California, USA)}
+ Seismological laboratory, exchange program of 6 months (inverse problems for earth structure tomography)
+
+== In companies
+:{2014 - IFP-Énergies nouvelles (Rueil, France)}
+Intern - research on compression and multiscale rendering of 3d meshes.
+
+:{2013 - [https://www.ekimetrics.com/?language=en Ekimetrics] (Paris, France)}
+Intern - statistics and consulting (building econometric models for marketing)
+
+:{2012 - Schlumberger (Texas, USA)}
+Intern - improvement of a seismic ray-tracing program
+
+== Teaching (at Dauphine University)
+- Functional analysis and PDEs (4th year, TD\*);
+- Differential systems (3rd year, TD);
+- Probabilities and statistics (1st year);
+- Analysis III : power series, Fourier series… (2nd year, TD)
+
+\* in France, TD ("travaux dirigés") are sessions where we train the student at solving exercices.
