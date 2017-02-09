@@ -1,9 +1,11 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, analytics{UA-65279943-1}
 = Lénaïc Chizat
 
 ~~~
 {}{img_left}{files/photo.png}{photo de lenaic}{WIDTHpx}{220px}{files/photo.png}
 PhD Student at [http://www.math.ens.fr/ DMA, École Normale Supérieure]
+            and Paris Dauphine (PSL research University)
+
 
 Member of [https://team.inria.fr/mokaplan/ Mokaplan] INRIA team
 
@@ -15,15 +17,21 @@ Supervised by [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dau
 ~~~
 
 == Research interests
-Applied mathematics: convex analysis, variational problems and optimisation algorithms. 
+*Applied mathematics*: convex analysis, variational problems and optimization algorithms. 
 
-So far, I have mostly worked on extensions of the optimal transport problem.
+I am interested in applications in the analysis of evolution PDEs, in machine learning and in signal processing. My main focus during my PhD is on some extensions of the optimal transport problem.
 
 == Submitted for publication
-C., Peyré, Schmitzer, Vialard,, Unbalanced optimal transport: geometry and Kantorovich formulation, Preprint [https://arxiv.org/abs/1508.05216 (ArXiv link)]
+Peyré, C., Vialard, Solomon, /Quantum Optimal Transport for Tensor Field Processing/, Preprint [https://arxiv.org/abs/1612.08731 (ArXiv link)].
 
-_, Scaling Algorithms for Unbalanced Transport Problems, Preprint [https://arxiv.org/abs/1607.05816 (ArXiv link)]
+C., Peyré, Schmitzer, Vialard, /Unbalanced optimal transport: geometry and Kantorovich formulation/, Preprint [https://arxiv.org/abs/1508.05216 (ArXiv link)].
+
+C., Peyré, Schmitzer, Vialard, /Scaling Algorithms for Unbalanced Transport Problems/, Preprint [https://arxiv.org/abs/1607.05816 (ArXiv link)].
 
 == Publications
 
-C., Peyré, Schmitzer, Vialard, An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics, Found Comput Math (2016). 
+C., Peyré, Schmitzer, Vialard, [http://link.springer.com/article/10.1007/s10208-016-9331-y /An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics/], Foundations of Computational Mathematics, (2016). 
+
+== In preparation
+
+Di Marino, C., /A tumor growth model of Hele-Shaw type as a gradient flow/.
