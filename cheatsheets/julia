@@ -1,0 +1,32 @@
+ # jemdoc: menu{MENU}{julia.html}
+= My Julia Cheatsheet
+
+I use the [http://julialang.org Julia] in order to run numerical experiments. Here is a list of reminders (mainly intended to me) for writing high performance code. 
+Current version : *Julia 5.0*
+
+== Performance tips
+:{Analyzing performance}
+@time, @timev, 
+@profile (Profile.print(), .clear(), .init() )
+
+:{Type stability}
+- The compiler should be able to determine the type of all variables in a function, given the type of the arguments (zero(x), (oftype(x,Inf),…)
+- Variables in loops should have fixed type
+- Use barrier functions when type instability occurs (and @noinline )
+- Arrays and composite types should be given concrete (or parametric concrete) types
+- check with @code_warntype
+
+:{Multidimensional arrays}
+- use eachindex(A) for going through an array or CartesianRange(size(A))
+- Read [http://julialang.org/blog/2016/02/iteration Tim Holy’s post].
+
+:{Prepone computations at compile time}
+- use macros occasionally for building specialized functions;
+- use generated functions (especially for multidimensional arrays)
+
+
+:{Speeding up}
+- @fastmath : faster, less precise math operations
+- @inbounds : does not check array limit indices
+- @simd: 
+- use « views » of arrays (old name: « sub »); may use @view

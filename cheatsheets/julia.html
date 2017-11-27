@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>My Julia Cheatsheet</title>
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+<h1>My Julia Cheatsheet</h1>
+</div>
+<p>I use the <a href="http://julialang.org">Julia</a> in order to run numerical experiments. Here is a list of reminders (mainly intended to me) for writing high performance code. 
+Current version : <b>Julia 5.0</b></p>
+<h2>Performance tips</h2>
+<dl>
+<dt>Analyzing performance</dt>
+<dd><p>
+@time, @timev, 
+@profile (Profile.print(), .clear(), .init() )</p></dd>
+</dl>
+<dl>
+<dt>Type stability</dt>
+<dd><p></p></dd>
+</dl>
+<ul>
+<li><p>The compiler should be able to determine the type of all variables in a function, given the type of the arguments (zero(x), (oftype(x,Inf),…)</p>
+</li>
+<li><p>Variables in loops should have fixed type</p>
+</li>
+<li><p>Use barrier functions when type instability occurs (and @noinline )</p>
+</li>
+<li><p>Arrays and composite types should be given concrete (or parametric concrete) types</p>
+</li>
+<li><p>check with @code_warntype</p>
+</li>
+</ul>
+<dl>
+<dt>Multidimensional arrays</dt>
+<dd><p></p></dd>
+</dl>
+<ul>
+<li><p>use eachindex(A) for going through an array or CartesianRange(size(A))</p>
+</li>
+<li><p>Read <a href="http://julialang.org/blog/2016/02/iteration">Tim Holy’s post</a>.</p>
+</li>
+</ul>
+<dl>
+<dt>Prepone computations at compile time</dt>
+<dd><p></p></dd>
+</dl>
+<ul>
+<li><p>use macros occasionally for building specialized functions;</p>
+</li>
+<li><p>use generated functions (especially for multidimensional arrays)</p>
+</li>
+</ul>
+<dl>
+<dt>Speeding up</dt>
+<dd><p></p></dd>
+</dl>
+<ul>
+<li><p>@fastmath : faster, less precise math operations</p>
+</li>
+<li><p>@inbounds : does not check array limit indices</p>
+</li>
+<li><p>@simd: </p>
+</li>
+<li><p>use « views » of arrays (old name: « sub »); may use @view</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-02-09 08:30:03 CET, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</div>
+</body>
+</html>

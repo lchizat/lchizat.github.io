@@ -3,37 +3,32 @@
 
 ~~~
 {}{img_left}{files/photo.png}{photo de lenaic}{WIDTHpx}{220px}{files/photo.png}
-PhD Student at [http://www.math.ens.fr/ DMA, École Normale Supérieure]
-            and Paris Dauphine (PSL research University)
+Post-doc researcher at [http://www.di.ens.fr/sierra/index.php SIERRA team], INRIA
 
-
-Member of [https://team.inria.fr/mokaplan/ Mokaplan] INRIA team
-
-Supervised by [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard]
-
-+lenaic.chizat@ens.fr+
++lenaic.csl@gmail.com+
 
 [https://github.com/lchizat Git-Hub repository]
 ~~~
+== PhD thesis
+I prepared my PhD thesis at Université Paris Dauphine under the supervision of [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard].
+I have defended my PhD thesis on November 10th 2017.
+- [files/CHIZAT_soutenance.pdf slides of the defence] in French (to see the animations, open with Acrobat and click on them)
+- [files/CHIZAT_phdthesis.pdf PhD manuscript] (in English)
 
 == Research interests
-*Applied mathematics*: convex analysis, variational problems and optimization algorithms. 
+During my PhD, I mostly developed models, numerical methods and applications for *unbalanced optimal transport*. My interest has recently shifted to the use of optimal transport in statistical learning.
 
-I am interested in applications in the analysis of evolution PDEs, in machine learning and in signal processing. My main focus during my PhD is on some extensions of the optimal transport problem.
-
-== Submitted for publication
-
-C., Peyré, Schmitzer, Vialard, /Unbalanced optimal transport: geometry and Kantorovich formulation/, Preprint [https://arxiv.org/abs/1508.05216 (ArXiv link)].
-
-Peyré, C. , Vialard, Solomon, /Quantum Optimal Transport for Tensor Field Processing/, Preprint [https://arxiv.org/abs/1612.08731 (ArXiv link)].
 
 == Publications
 
-C., Peyré, Schmitzer, Vialard, [http://link.springer.com/article/10.1007/s10208-016-9331-y /An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics/], Foundations of Computational Mathematics, (2016). 
+Chizat, Peyré, Schmitzer, Vialard, [http://link.springer.com/article/10.1007/s10208-016-9331-y /An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics/], Foundations of Computational Mathematics, 2016. [https://arxiv.org/pdf/1506.06430.pdf (link to preprint)]
 
+Chizat, Peyré, Schmitzer, Vialard, /Scaling Algorithms for Unbalanced Transport Problems/, to appear in Mathematics of Computation, 2017 [https://arxiv.org/abs/1607.05816 (link to preprint)].
 
-C., Peyré, Schmitzer, Vialard, /Scaling Algorithms for Unbalanced Transport Problems/, to appear in Mathematics of Computation [https://arxiv.org/abs/1607.05816 (ArXiv link)].
+Peyré, Chizat , Vialard, Solomon, [https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/quantum-entropic-regularization-of-matrixvalued-optimal-transport/13673C87C2390AE97914DED32DD5178B /Quantum Optimal Transport for Tensor Field Processing/], European Journal of Applied Mathematics, 2017 [https://arxiv.org/abs/1612.08731 (link to preprint)].
 
-== In preparation
+Thibault, Chizat, Dossal, Papadakis, /Overrelaxed Sinkhorn-Knopp Algorithm for Regularized Optimal Transport/ NIPS Workshop on Optimal Transport & Machine Learning. 2017 [https://arxiv.org/pdf/1711.01851.pdf (link to preprint)].
 
-Di Marino, C., /A tumor growth model of Hele-Shaw type as a gradient flow/.
+== Submitted for publication
+
+Chizat, Peyré, Schmitzer, Vialard, /Unbalanced optimal transport: geometry and Kantorovich formulation/, Preprint, 2016 [https://arxiv.org/abs/1508.05216 (ArXiv link)].
