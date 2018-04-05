@@ -7,31 +7,33 @@ Post-doc researcher at [http://www.di.ens.fr/sierra/index.php SIERRA team], INRI
 
 +lenaic.csl@gmail.com+
 
-[https://github.com/lchizat Git-Hub repository]
 ~~~
+
 == PhD thesis
-I prepared my PhD thesis at Université Paris Dauphine under the supervision of [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard].
-I defended it on November 10th 2017.
-- [files/CHIZAT_soutenance.pdf slides of the defense] in French (to see the animations, open with Acrobat and click on them)
+I defended my PhD thesis entitled /Unbalanced Optimal Transport: Models, Numerical Methods, Applications/, at Université Paris-Dauphine (PSL Research university) on November 10th 2017. My thesis advisors were [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard]. 
+- [files/CHIZAT_soutenance.pdf slides of the defense] (in French, clickable animations require Acrobat Reader)
 - [files/CHIZAT_phdthesis.pdf PhD manuscript] (in English)
 
 == Research interests
-During my PhD, I mostly developed models, numerical methods and applications for *unbalanced optimal transport*. My interest has recently shifted to the use of optimal transport in statistical learning.
+- optimal transport and variational problems in the space of measures
+- continuous optimization algorithms (convex and non-convex)
+- applications to statistical learning and signal processing
 
 
 == Publications
 
-Chizat, Peyré, Schmitzer, Vialard, [http://link.springer.com/article/10.1007/s10208-016-9331-y /An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics/], Foundations of Computational Mathematics, 2016. [https://arxiv.org/pdf/1506.06430.pdf (link to preprint)]
+- Chizat, Peyré, Schmitzer, Vialard, [http://link.springer.com/article/10.1007/s10208-016-9331-y /An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics/], Foundations of Computational Mathematics, 2016. [https://arxiv.org/pdf/1506.06430.pdf (link to preprint)]
 
-Chizat, Peyré, Schmitzer, Vialard, /Scaling Algorithms for Unbalanced Transport Problems/, to appear in Mathematics of Computation, 2017 [https://arxiv.org/abs/1607.05816 (link to preprint)].
+- Peyré, Chizat , Vialard, Solomon, [https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/quantum-entropic-regularization-of-matrixvalued-optimal-transport/13673C87C2390AE97914DED32DD5178B /Quantum Optimal Transport for Tensor Field Processing/], European Journal of Applied Mathematics, 2017 [https://arxiv.org/abs/1612.08731 (link to preprint)].
 
-Peyré, Chizat , Vialard, Solomon, [https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/quantum-entropic-regularization-of-matrixvalued-optimal-transport/13673C87C2390AE97914DED32DD5178B /Quantum Optimal Transport for Tensor Field Processing/], European Journal of Applied Mathematics, 2017 [https://arxiv.org/abs/1612.08731 (link to preprint)].
+- Chizat, Peyré, Schmitzer, Vialard, [http://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2018-03303-8/home.html /Scaling Algorithms for Unbalanced Transport Problems/], Mathematics of Computation, 2018 [https://arxiv.org/abs/1607.05816 (link to preprint)].
+
+- Chizat, Peyré, Schmitzer, Vialard, [https://www.sciencedirect.com/science/article/pii/S0022123618301058 /Unbalanced Optimal Transport: Dynamic and Kantorovich formulations/], Journal of Functional Analysis, 2018 [https://arxiv.org/abs/1508.05216 (link to preprint)].
 
 
 == Preprints
 
-Chizat, Peyré, Schmitzer, Vialard, /Unbalanced optimal transport: geometry and Kantorovich formulation/, Preprint, 2016 [https://arxiv.org/abs/1508.05216 (ArXiv link)].
 
-Thibault, Chizat, Dossal, Papadakis, /Overrelaxed Sinkhorn-Knopp Algorithm for Regularized Optimal Transport/ NIPS Workshop on Optimal Transport & Machine Learning. 2017 [https://arxiv.org/pdf/1711.01851.pdf (ArXiv link)].
+- Thibault, Chizat, Dossal, Papadakis, /Overrelaxed Sinkhorn-Knopp Algorithm for Regularized Optimal Transport/ presented at the NIPS Workshop on Optimal Transport & Machine Learning. 2017 [https://arxiv.org/abs/1711.01851 (link to preprint)].
 
-Chizat, Di Marino, /A tumor growth model of Hele-Shaw type as a gradient flow/. 2017 [https://arxiv.org/abs/1712.06124 (ArXiv link)].
+- Chizat, Di Marino, /A tumor growth model of Hele-Shaw type as a gradient flow/. 2017 [https://arxiv.org/abs/1712.06124 (link to preprint)].
