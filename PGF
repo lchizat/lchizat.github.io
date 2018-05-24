@@ -5,14 +5,16 @@ Many tasks in machine learning and signal processing require to minimize a conve
 \(
 \min_{\mu \in \mathcal{M}(\Theta)} J(\mu)
 \)
-where $\mathcal{M}(\Theta)$ is the space of measures on a manifold $\Theta$. For this optimization problem, we investigate the method that consists in discretizing the measure into particles $\mu = \sum_{i=1}^m w_i \delta_{\theta_i}$ and taking the gradient flow of $J$ in the parameters $(w_i,\theta_i)_i$. We show that quite generically, this gradient flow converges to global minimizers in the many-particle limit $m,t \to \infty$, under two main conditions:
+where $\mathcal{M}(\Theta)$ is the space of measures on a manifold $\Theta$. We focus on the case where $J$ is (weakly) continuous and (Fréchet) differentiable. For this optimization problem, we investigate the method that consists in discretizing the measure into particles $\mu = \sum_{i=1}^m w_i \delta_{\theta_i}$ and taking the gradient flow of $J$ in the parameters $(w_i,\theta_i)_i$. We show that quite generically, this gradient flow converges to global minimizers in the many-particle limit $m,t \to \infty$, under two main conditions:
 - the differential of $J$, seen has a continuous function on $\Theta$, has some "homogeneity directions", and 
 - the initial distribution of particles is admissible.
  
 ~~~
 {Preprint}
-Lenaic Chizat, Francis Bach. On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport. 2018. 〈hal-01798792〉
+Lenaic Chizat, Francis Bach. On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport. 2018. [https://hal.archives-ouvertes.fr/hal-01798792 <hal-01798792>]
 ~~~
+
+/Erratum/: Assumption 3.4-(iii) should be made in the statement of Proposition 4.2 (will update soon).
 
 === Animations
 We display below animated versions of the particle gradient flows shown in Section 4 of the preprint, as well as a particle gradient flow corresponding to the training of a neural network with a single hidden layer and sigmoid activation function in dimension d=2. In all these cases, the global minimizer (supported on the dotted lines in the plots) is found. The time scale is logarithmic.

@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{UOT.html}
+= Unbalanced Optimal Transport
+
+
+In construction...
+
+~~~
+{}{raw}
+<figure>
+<center>
+        <img src="files/UOTh.gif" alt="horizontal" width=220 >
+        <img src="files/UOTv.gif" alt="vertical" width=220 >
+        <img src="files/UOTvh.gif" alt="mixte" width=220 >
+
+  <figcaption>Geodesics for OT, linear and UOT geometry respectively.</figcaption>
+</center>
+</figure>
+~~~
