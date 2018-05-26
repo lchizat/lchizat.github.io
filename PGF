@@ -20,7 +20,7 @@ We display below animated versions of the particle gradient flows shown in Secti
 ~~~
 {}{img_left}{files/PGFspikes.gif}{spikes deconvolution}{WIDTHpx}{220px}{files/PGFspikes.gif}
 
-We solve the BLASSO problem for recovering a sum-of-impulse signal given noisy and filtered observations. Here, the method we consider corresponds to the forward-backward method on the vector of position/weights of all particles. The positions $\theta(t)$ of the particles are shown horizontally and weight $w(t)$ shown vertically. The initialization is evenly spaced on $\{0\} \times [0,1]$ (this satisfies asymptotically the separation condition).
+We solve the BLASSO problem for recovering a sum-of-impulse signal given noisy and filtered observations. The method corresponds to a non-convex forward-backward method on the vector of position/weights of all particles. The positions $\theta(t)$ of the particles are shown horizontally and weight $w(t)$ shown vertically. The initialization is evenly spaced on $\{0\} \times [0,1]$ (this satisfies asymptotically the separation condition).
 ~~~
 
 *Neural networks with a single hidden layer*
