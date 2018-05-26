@@ -5,9 +5,7 @@ Many tasks in machine learning and signal processing require to minimize a conve
 \(
 \min_{\mu \in \mathcal{M}(\Theta)} J(\mu)
 \)
-where $\mathcal{M}(\Theta)$ is the space of measures on a manifold $\Theta$. We focus on the case where $J$ is (weakly) continuous and (Fréchet) differentiable. For this optimization problem, we investigate the method that consists in discretizing the measure into particles $\mu = \sum_{i=1}^m w_i \delta_{\theta_i}$ and taking the gradient flow of $J$ in the parameters $(w_i,\theta_i)_i$. We show that quite generically, this gradient flow converges to global minimizers in the many-particle limit $m,t \to \infty$, under two main conditions:
-- the differential of $J$, seen has a continuous function on $\Theta$, has some "homogeneity directions", and 
-- the initial distribution of particles is admissible.
+where $\mathcal{M}(\Theta)$ is the space of measures on a manifold $\Theta$. We focus on the case where $J$ is (weakly) continuous and (Fréchet) differentiable. For this optimization problem, we investigate the method that consists in discretizing the measure into particles $\mu = \sum_{i=1}^m w_i \delta_{\theta_i}$ and taking the gradient flow of $J$ in the parameters $(w_i,\theta_i)_i$. We show that, quite generically, this gradient flow converges to global minimizers in the many-particle limit $m \to \infty$, if the initial distribution of particles is satisfies a "separation" property.
  
 ~~~
 {Preprint}
@@ -16,27 +14,27 @@ Lenaic Chizat, Francis Bach. On the Global Convergence of Gradient Descent for O
 
 
 === Animations
-We display below animated versions of the particle gradient flows shown in Section 4 of the preprint, as well as a particle gradient flow corresponding to the training of a neural network with a single hidden layer and sigmoid activation function in dimension d=2. In all these cases, the global minimizer (supported on the dotted lines in the plots) is found. The time scale is logarithmic.
+We display below animated versions of the particle gradient flows shown in Section 4 of the preprint, as well as a particle gradient flow corresponding to the training of a neural network with a single hidden layer and sigmoid activation function in dimension d=2. In all these cases, the global minimizer (supported on the dotted lines in the plots) is found. The time scale is logarithmic (see paper for details).
 
 *Sparse spikes deconvolution*
 ~~~
 {}{img_left}{files/PGFspikes.gif}{spikes deconvolution}{WIDTHpx}{220px}{files/PGFspikes.gif}
 
-Here we solve the BLasso problem for recovering a sum-of-impulse signal given noisy and filtered observations. The positions $\theta(t)$ of the particles are shown horizontally and weight $w(t)$ shown vertically. This initialization is evenly spaced on $\{0\} \times [0,1]$.
+We solve the BLASSO problem for recovering a sum-of-impulse signal given noisy and filtered observations. Here, the method we consider corresponds to the forward-backward method on the vector of position/weights of all particles. The positions $\theta(t)$ of the particles are shown horizontally and weight $w(t)$ shown vertically. The initialization is evenly spaced on $\{0\} \times [0,1]$ (this satisfies asymptotically the separation condition).
 ~~~
 
 *Neural networks with a single hidden layer*
 
-We train such a network on a synthetic well-specified model with SGD.
+We train a simple neural network on a synthetic well-specified model with SGD.
 
 ~~~
 {}{img_left}{files/PGFrelu.gif}{ReLU activation}{WIDTHpx}{220px}{files/PGFrelu.gif}
 
-ReLU activation function: we show for each particle the trajectory $\vert w(t)\vert\cdot \theta(t)\in \mathbb{R}^2$. The initialization is on a sphere around $0$, as our analysis suggests.
+ReLU activation function: we show for each particle the trajectory $\vert w(t)\vert\cdot \theta(t)\in \mathbb{R}^2$. The initialization is uniformly random on a sphere around $0$ (this satisfies asymptotically the separation condition). This case has a homogeneous structure and is treated separately in the paper.
 ~~~
 
 ~~~
 {}{img_left}{files/PGFsigmoid.gif}{sigmoid activation}{WIDTHpx}{220px}{files/PGFsigmoid.gif}
 
-Sigmoid activation function: weights $w(t)$ represented by the size of the particles (blue for negative, red for positive, ground truth shown with 2 neurons shown by large disks). The initialization is distributed according to a normal law on $\mathbb{R}^2$.
+Sigmoid activation function: weights $w(t)$ represented by the size of the particles (blue for negative, red for positive, ground truth shown with 2 neurons shown by large disks). The initialization is distributed according to a normal law on $\mathbb{R}^2$ (this satisfies asymptotically the separation condition).
 ~~~

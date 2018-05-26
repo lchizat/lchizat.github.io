@@ -38,38 +38,32 @@ MathJax.Hub.Config({
 \[
 \min_{\mu \in \mathcal{M}(\Theta)} J(\mu)
 \]
-</p><p>where \(\mathcal{M}(\Theta)\) is the space of measures on a manifold \(\Theta\). We focus on the case where \(J\) is (weakly) continuous and (Fréchet) differentiable. For this optimization problem, we investigate the method that consists in discretizing the measure into particles \(\mu = \sum_{i=1}^m w_i \delta_{\theta_i}\) and taking the gradient flow of \(J\) in the parameters \((w_i,\theta_i)_i\). We show that quite generically, this gradient flow converges to global minimizers in the many-particle limit \(m,t \to \infty\), under two main conditions:</p>
-<ul>
-<li><p>the differential of \(J\), seen has a continuous function on \(\Theta\), has some &ldquo;homogeneity directions&rdquo;, and </p>
-</li>
-<li><p>the initial distribution of particles is admissible.</p>
-</li>
-</ul>
+</p><p>where \(\mathcal{M}(\Theta)\) is the space of measures on a manifold \(\Theta\). We focus on the case where \(J\) is (weakly) continuous and (Fréchet) differentiable. For this optimization problem, we investigate the method that consists in discretizing the measure into particles \(\mu = \sum_{i=1}^m w_i \delta_{\theta_i}\) and taking the gradient flow of \(J\) in the parameters \((w_i,\theta_i)_i\). We show that, quite generically, this gradient flow converges to global minimizers in the many-particle limit \(m \to \infty\), if the initial distribution of particles is satisfies a &ldquo;separation&rdquo; property.</p>
 <div class="infoblock">
 <div class="blocktitle">Preprint</div>
 <div class="blockcontent">
 <p>Lenaic Chizat, Francis Bach. On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport. 2018. <a href="https://hal.archives-ouvertes.fr/hal-01798792" target=&ldquo;blank&rdquo;>&lt;hal-01798792&gt;</a></p>
 </div></div>
 <h3>Animations</h3>
-<p>We display below animated versions of the particle gradient flows shown in Section 4 of the preprint, as well as a particle gradient flow corresponding to the training of a neural network with a single hidden layer and sigmoid activation function in dimension d=2. In all these cases, the global minimizer (supported on the dotted lines in the plots) is found. The time scale is logarithmic.</p>
+<p>We display below animated versions of the particle gradient flows shown in Section 4 of the preprint, as well as a particle gradient flow corresponding to the training of a neural network with a single hidden layer and sigmoid activation function in dimension d=2. In all these cases, the global minimizer (supported on the dotted lines in the plots) is found. The time scale is logarithmic (see paper for details).</p>
 <p><b>Sparse spikes deconvolution</b></p>
 <table class="imgtable"><tr><td>
 <a href="files/PGFspikes.gif"><img src="files/PGFspikes.gif" alt="spikes deconvolution" width="WIDTHpx" height="220px" /></a>&nbsp;</td>
-<td align="left"><p>Here we solve the BLasso problem for recovering a sum-of-impulse signal given noisy and filtered observations. The positions \(\theta(t)\) of the particles are shown horizontally and weight \(w(t)\) shown vertically. This initialization is evenly spaced on \(\{0\} \times [0,1]\).</p>
+<td align="left"><p>We solve the BLASSO problem for recovering a sum-of-impulse signal given noisy and filtered observations. Here, the method we consider corresponds to the forward-backward method on the vector of position/weights of all particles. The positions \(\theta(t)\) of the particles are shown horizontally and weight \(w(t)\) shown vertically. The initialization is evenly spaced on \(\{0\} \times [0,1]\) (this satisfies asymptotically the separation condition).</p>
 </td></tr></table>
 <p><b>Neural networks with a single hidden layer</b></p>
-<p>We train such a network on a synthetic well-specified model with SGD.</p>
+<p>We train a simple neural network on a synthetic well-specified model with SGD.</p>
 <table class="imgtable"><tr><td>
 <a href="files/PGFrelu.gif"><img src="files/PGFrelu.gif" alt="ReLU activation" width="WIDTHpx" height="220px" /></a>&nbsp;</td>
-<td align="left"><p>ReLU activation function: we show for each particle the trajectory \(\vert w(t)\vert\cdot \theta(t)\in \mathbb{R}^2\). The initialization is on a sphere around \(0\), as our analysis suggests.</p>
+<td align="left"><p>ReLU activation function: we show for each particle the trajectory \(\vert w(t)\vert\cdot \theta(t)\in \mathbb{R}^2\). The initialization is uniformly random on a sphere around \(0\) (this satisfies asymptotically the separation condition). This case has a homogeneous structure and is treated separately in the paper.</p>
 </td></tr></table>
 <table class="imgtable"><tr><td>
 <a href="files/PGFsigmoid.gif"><img src="files/PGFsigmoid.gif" alt="sigmoid activation" width="WIDTHpx" height="220px" /></a>&nbsp;</td>
-<td align="left"><p>Sigmoid activation function: weights \(w(t)\) represented by the size of the particles (blue for negative, red for positive, ground truth shown with 2 neurons shown by large disks). The initialization is distributed according to a normal law on \(\mathbb{R}^2\).</p>
+<td align="left"><p>Sigmoid activation function: weights \(w(t)\) represented by the size of the particles (blue for negative, red for positive, ground truth shown with 2 neurons shown by large disks). The initialization is distributed according to a normal law on \(\mathbb{R}^2\) (this satisfies asymptotically the separation condition).</p>
 </td></tr></table>
 <div id="footer">
 <div id="footer-text">
-Page generated 2018-05-24 19:56:34 CEST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2018-05-26 02:26:02 CEST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
