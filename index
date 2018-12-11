@@ -22,7 +22,7 @@ I sometimes post code in [https://julialang.org/ Julia] on my [https://github.co
 
 2018
 
-- L. Chizat, F. Bach. *A Note on Lazy Training in Differentiable Programming.* Technical report, 2018. \[[files/papers/chizatbach2018lazy.pdf pdf]\]
+- L. Chizat, F. Bach. *A Note on Lazy Training in Differentiable Programming.* Technical report, 2018. \[[https://hal.inria.fr/hal-01945578 pdf]\]
 
 - A. Genevay, L. Chizat, F. Bach, M. Cuturi, G. Peyré. *Sample Complexity of Sinkhorn divergences.* Technical report, arXiv-1810.02733, 2018. \[[https://arxiv.org/pdf/1810.02733.pdf pdf]\]
 
