@@ -49,7 +49,9 @@ I sometimes post code in [https://julialang.org/ Julia] on my [https://github.co
 
 == Selection of talks
 Slides often include videos that can be read with Adobe Acrobat (try to click on any image).
-- 07/2018 *On the Global Convergence of Gradient Descent for Over-parameterized Models.* IFIP conference in Essen. \[[files/chizat2018ifip.zip download slides]\]
+- 02/2019 *Tutorial on Optimal Transport Theory.* IISc Bangalore. \[[files/presentations/chizat2019OTtutorial.pdf slides]\] \[[files/presentations/chizat2019OTtutorial.zip download slides with animations]\]
+- 02/2019 *Theories of Neural Network Training.* IISc Bangalore. \[[files/presentations/chizat2019NNtraining.pdf slides]\] \[[files/presentations/chizat2019NNtraining.zip download slides with animations]\]
+- 07/2018 *On the Global Convergence of Gradient Descent for Over-parameterized Models.* IFIP conference in Essen. \[[files/chizat2018ifip.zip download slides with animations]\]
 - 02/2018 *A Tutorial on Optimal Transport* with A. Genevay at [https://imaging-in-paris.github.io/seminar/ Imaging in Paris]. \[[files/CHIZAT_imagingParis_080218.pdf slides]\]
 - 11/2017 *Unbalanced Optimal Transport.* PhD Defense at Université Paris Dauphine. \[[files/CHIZAT_soutenance.pdf slides in French]\] \[[chizat2017phddefense.pdf slides in English]\]
 - 09/2017 *A Primer on Optimal Transport*, talk at the [https://www.broadinstitute.org/ Broad institute]'s [https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms MIA seminar] (MIT-Harvard). \[[https://www.youtube.com/watch?v=vJx7NiXFMi8 watch video]\].
