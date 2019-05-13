@@ -10,8 +10,6 @@ I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ 
 - optimal transport and variational problems in the space of measures
 - continuous optimization algorithms (convex and non-convex)
 - applications to machine learning and signal processing
-
-I sometimes post code in [https://julialang.org/ Julia] on my [https://github.com/lchizat Github page].
 ~~~
 
 ~~~
@@ -28,7 +26,7 @@ I sometimes post code in [https://julialang.org/ Julia] on my [https://github.co
 
 - L. Chizat, F. Bach. *On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport.* Advances in Neural Information Processing Systems (NeurIPS), 2018. \[[https://hal.archives-ouvertes.fr/hal-01798792/document pdf]\] \[[files/posters/chizatbach2018poster.pdf poster]\]
 
-- L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard, *Unbalanced Optimal Transport: Dynamic and Kantorovich formulations.* Journal of Functional Analysis, 2018. \[[https://www.sciencedirect.com/science/article/pii/S0022123618301058 article]\] \[[https://arxiv.org/abs/1508.05216 preprint (not up to date!)]\]
+- L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard, *Unbalanced Optimal Transport: Dynamic and Kantorovich formulations.* Journal of Functional Analysis, 2018. \[[https://www.sciencedirect.com/science/article/pii/S0022123618301058 article]\] \[[https://arxiv.org/abs/1508.05216 pdf]\]
 
 - L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard,  *Scaling Algorithms for Unbalanced Optimal Transport Problems.* Mathematics of Computation, 2018.  \[[https://arxiv.org/abs/1607.05816 pdf]\]
 
