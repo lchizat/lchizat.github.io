@@ -18,11 +18,15 @@ I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ 
 
 == Publications
 
+2019
+
+- L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* Technical report HAL-02190822, 2019. \[[https://hal.archives-ouvertes.fr/hal-02190822 pdf]\]
+
+- L. Chizat, E.Oyallon, F. Bach. *On Lazy Training in Differentiable Programming.* Technical report HAL-01945578, 2019. \[[https://hal.inria.fr/hal-01945578 pdf]\]
+
+- A. Genevay, L. Chizat, F. Bach, M. Cuturi, G. Peyré. *Sample Complexity of Sinkhorn divergences.* Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS), 2019. \[[http://proceedings.mlr.press/v89/genevay19a/genevay19a.pdf pdf]\]
+
 2018
-
-- L. Chizat, F. Bach. *A Note on Lazy Training in Differentiable Programming.* Technical report HAL-01945578, 2018. \[[https://hal.inria.fr/hal-01945578 pdf]\]
-
-- A. Genevay, L. Chizat, F. Bach, M. Cuturi, G. Peyré. *Sample Complexity of Sinkhorn divergences.* Technical report, arXiv-1810.02733, 2018. \[[https://arxiv.org/pdf/1810.02733.pdf pdf]\]
 
 - L. Chizat, F. Bach. *On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport.* Advances in Neural Information Processing Systems (NeurIPS), 2018. \[[https://hal.archives-ouvertes.fr/hal-01798792/document pdf]\] \[[files/posters/chizatbach2018poster.pdf poster]\]
 
@@ -47,8 +51,8 @@ I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ 
 
 == Selection of talks
 Slides often include videos that can be read with Adobe Acrobat (try to click on any image).
-- 02/2019 *Tutorial on Optimal Transport Theory.* IISc Bangalore. \[[files/presentations/chizat2019OTtutorial.pdf slides]\] \[[files/presentations/chizat2019OTtutorial.zip download slides with animations]\]
-- 02/2019 *Theories of Neural Network Training.* IISc Bangalore. \[[files/presentations/chizat2019NNtraining.pdf slides]\] \[[files/presentations/chizat2019NNtraining.zip download slides with animations]\]
+- 07/2019 *Theoretical aspects of Neural Networks Optimization.* IISc Bangalore. \[[files/presentations/chizat2019IFCAM_NN.pdf slides]\] \[[files/presentations/chizat2019IFCAM_NN.zip download slides with animations]\]
+- 07/2019 *Tutorial on Optimal Transport with a Machine Learning Touch.* IISc Bangalore. \[[files/presentations/chizat2019IFCAM_OT.pdf slides]\] \[[files/presentations/chizat2019IFCAM_OT.zip download slides with animations]\]
 - 07/2018 *On the Global Convergence of Gradient Descent for Over-parameterized Models.* IFIP conference in Essen. \[[files/chizat2018ifip.zip download slides with animations]\]
 - 02/2018 *A Tutorial on Optimal Transport* with A. Genevay at [https://imaging-in-paris.github.io/seminar/ Imaging in Paris]. \[[files/CHIZAT_imagingParis_080218.pdf slides]\]
 - 11/2017 *Unbalanced Optimal Transport.* PhD Defense at Université Paris Dauphine. \[[files/CHIZAT_soutenance.pdf slides in French]\] \[[chizat2017phddefense.pdf slides in English]\]
