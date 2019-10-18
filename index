@@ -22,7 +22,7 @@ I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ 
 
 - L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* Technical report HAL-02190822, 2019. \[[https://hal.archives-ouvertes.fr/hal-02190822 pdf]\]
 
-- L. Chizat, E.Oyallon, F. Bach. *On Lazy Training in Differentiable Programming.* Technical report HAL-01945578, 2019. \[[https://hal.inria.fr/hal-01945578 pdf]\]
+- L. Chizat, E.Oyallon, F. Bach. *On Lazy Training in Differentiable Programming.* To appear in Advances in Neural Information Processing Systems (NeurIPS), 2019. \[[https://hal.inria.fr/hal-01945578 pdf]\]
 
 - A. Genevay, L. Chizat, F. Bach, M. Cuturi, G. Peyré. *Sample Complexity of Sinkhorn divergences.* Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS), 2019. \[[http://proceedings.mlr.press/v89/genevay19a/genevay19a.pdf pdf]\]
 
