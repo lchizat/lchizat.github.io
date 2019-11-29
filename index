@@ -6,7 +6,9 @@ CNRS researcher at Laboratoire de Mathématiques d'Orsay
 {}{img_left}{files/photo.png}{photo de lenaic}{WIDTHpx}{220px}{files/photo.png}
 
 
-I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ LMO], the math department of Université Paris-Sud. In 2018, I was a post-doc researcher at INRIA Paris working with [https://www.di.ens.fr/~fbach/ Francis Bach]. In 2017, I have completed a PhD in applied mathematics at Université Paris-Dauphine (CEREMADE) and École Normale Supérieure (DMA) working with [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard]. My research interests include:
+I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ LMO], the math department of Université Paris-Sud. In 2018, I was a post-doc researcher at INRIA Paris working with [https://www.di.ens.fr/~fbach/ Francis Bach]. In 2017, I have completed a PhD in applied mathematics at Université Paris-Dauphine (CEREMADE) and École Normale Supérieure (DMA) working with [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard]. 
+
+I am interested in the mathematical analysis of data-driven algorithms. More specifically I have worked on the following topics:
 - optimal transport and variational problems in the space of measures
 - continuous optimization algorithms (convex and non-convex)
 - applications to machine learning and signal processing
@@ -49,8 +51,11 @@ I am a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ 
 
 - L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard, *An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics*, Foundations of Computational Mathematics, 2016. \[[https://arxiv.org/pdf/1506.06430.pdf pdf]\]
 
-== Selection of talks
-Slides often include videos that can be read with Adobe Acrobat (try to click on any image).
+== Selection of talks with slides
+Slides sometimes include videos that can be read with Adobe Acrobat (try to click on any image).
+- 11/2019 *Tutorial on non-convex optimization with gradient methods (II).* (see [https://guillaume-garrigos.com/ Guillaume Garrigos webpage] for part (I)), SMILE in Paris seminar \[[files/presentations/chizat191128smile.pdf slides]\]
+- 11/2019 *Optimization on Measures with Over-parameterized Gradient Descent.* Optimization on Measures workshop, IMT Toulouse \[[files/presentations/chizat191126toulouse.pdf slides]\]
+- 11/2019 *Two analyses for of gradient-based optimization for wide two-layer neural networks.* Theory of Neural Networks seminar, EPFL \[[files/presentations/chizat191105epfl.pdf slides]\]
 - 07/2019 *Theoretical aspects of Neural Networks Optimization.* IISc Bangalore. \[[files/presentations/chizat2019IFCAM_NN.pdf slides]\] \[[files/presentations/chizat2019IFCAM_NN.zip download slides with animations]\]
 - 07/2019 *Tutorial on Optimal Transport with a Machine Learning Touch.* IISc Bangalore. \[[files/presentations/chizat2019IFCAM_OT.pdf slides]\] \[[files/presentations/chizat2019IFCAM_OT.zip download slides with animations]\]
 - 07/2018 *On the Global Convergence of Gradient Descent for Over-parameterized Models.* IFIP conference in Essen. \[[files/chizat2018ifip.zip download slides with animations]\]
