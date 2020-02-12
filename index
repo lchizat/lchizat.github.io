@@ -20,7 +20,7 @@ I am interested in the mathematical analysis of data-driven algorithms. More spe
 
 
 == Recent news
-- (12-02-2020) In a new preprint with Francis Bach, we characterize the classifier that is learnt by gradient descent on a two-layer neural network with the logistic loss. This classifier breaks the curse of dimensionality when the data has hidden linear structure! \[[https://arxiv.org/abs/2002.04486 paper]\].
+- (12-02-2020) In a new preprint with Francis Bach, *we characterize the classifier that is learnt by gradient descent on a two-layer neural network* with the logistic loss. This classifier breaks the curse of dimensionality when the data has hidden linear structure! \[[https://arxiv.org/abs/2002.04486 paper]\].
 
 - (14-01-2020) Gave a tutorial on *Optimal Transport Theory for Machine learning* at the Indian Statistical Institute, Kolkata \[[files/presentations/chizat2020ISI.pdf slides]\]. It was part of the workshop on [https://www.isical.ac.in/~caiml/stat-ai-data-science/ Statistics and Artificial Intelligence for Data Science].
 
