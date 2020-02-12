@@ -20,6 +20,8 @@ I am interested in the mathematical analysis of data-driven algorithms. More spe
 
 
 == Recent news
+- (12-02-2020) In a new preprint with Francis Bach, we characterize the classifier that is learnt by gradient descent on a two-layer neural network with the logistic loss. This classifier breaks the curse of dimensionality when the data has hidden linear structure! \[[https://arxiv.org/abs/2002.04486 paper]\].
+
 - (14-01-2020) Gave a tutorial on *Optimal Transport Theory for Machine learning* at the Indian Statistical Institute, Kolkata \[[files/presentations/chizat2020ISI.pdf slides]\]. It was part of the workshop on [https://www.isical.ac.in/~caiml/stat-ai-data-science/ Statistics and Artificial Intelligence for Data Science].
 
 - (09-01-2020) Gave a talk on the *Analysis of Gradient Methods for Wide Two-Layer Neural  Networks* at ICTS, Bangalore. It was part of the workshop on [https://www.icts.res.in/discussion-meeting/SPMML2020 Statistical physics of machine learning]. \[[https://www.youtube.com/watch?v=-Tk1B_H4Kd8&feature=youtu.be video]\] \[[files/presentations/chizat2020ICTS.pdf slides]\].
@@ -41,9 +43,12 @@ I am interested in the mathematical analysis of data-driven algorithms. More spe
 
 == Publications
 
+2020
+- L. Chizat, F. Bach. *Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss.* Technical report arXiv:2002.04486, 2020 \[ [https://arxiv.org/pdf/2002.04486.pdf pdf]\]
+
 2019
 
-- L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* Technical report HAL-02190822, 2019. \[[https://hal.archives-ouvertes.fr/hal-02190822 pdf]\]
+- L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* Technical report arXiv:1907.10300, 2019. \[[https://arxiv.org/pdf/1907.10300.pdf pdf]\]
 
 - L. Chizat, E.Oyallon, F. Bach. *On Lazy Training in Differentiable Programming.* To appear in Advances in Neural Information Processing Systems (NeurIPS), 2019. \[[https://hal.inria.fr/hal-01945578 pdf]\]
 
