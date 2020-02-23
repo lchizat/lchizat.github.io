@@ -32,15 +32,16 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
+	padding-top: 1.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
 	border: none;
-	background: white;
+	background: #ffffed;
 	text-align: left;
 	vertical-align: top;
-	min-width: 800px;
-	width: 800px;
+	min-width: 500px;
+	max-width: 2000px;
+	font-size: 100%;
 }
 
 #layout-menu a {
@@ -119,7 +120,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #CC1919;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;

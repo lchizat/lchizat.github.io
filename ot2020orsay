@@ -1,0 +1,33 @@
+# jemdoc:
+
+= Introduction to Optimal Transport Theory
+[https://lchizat.github.io/ Lénaïc Chizat] [https://sites.google.com/site/lucanenna Luca Nenna]
+Master Optimizatiom, Université Paris Saclay, 2019/2020
+
+
+== Mandatory registration
+
+The class will be taught in French or English, depending on attendance (all slides and class notes are in English).
+
+~~~
+
+== Summary
+
+Optimal transport is a powerful mathematical theory at the interface between optimization and probability theory with far reaching applications. It defines a natural tool to study probability distributions in the many situations where they appear: data science, partial differential equations, statistics or shape processing. In this course we will present the classical theory of optimal transport, efficient algorithms to compute it and applications.
+
+Pre-requisites: notions on measure theory, weak convergence, and convex analysis. Some basics knowledge of Python.
+
+~~~
+
+== Dates
+Classes will be held in the room 1A13 (1st floor, Laboratoire de Mathématiques d'Orsay), wednesday afternoon from 13:30 to 17:00. Class notes will be made available. Practical sessions will be held on laptops with Python 3 and Jupyter notebooks (please make sure to install it before January 17, and run this script).
+
+
+~~~
+{}{table}{TABLENAME}
+*Lecturer* | *Date* | *Topic* | *Class notes/code* ||
+LN | 5 February | Monge and Kantorovich problems (existence of minimizers, duality) | asd 
+~~~
+== Evaluation
+Practical sessions to finish at home + written in-class exam
+
