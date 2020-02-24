@@ -22,7 +22,7 @@ Optimal transport is a powerful mathematical theory at the interface between opt
 
 
 == Dates
-Classes will be held in the room 1A13 (1st floor, Laboratoire de Mathématiques d'Orsay), Wednesday afternoon from 13:30 to 17:00. Class notes will be made available. Practical sessions will be held on laptops with Python 3 and Jupyter notebooks (please make sure to install it before March 4, and run [files2020ot/crash_test.ipynb this script]).
+Classes will be held in the room 1A13 (1st floor, Laboratoire de Mathématiques d'Orsay), Wednesday afternoon from 13:30 to 17:00. Class notes will be made available. Practical sessions will be held on laptops with Python 3 and Jupyter notebooks (please make sure to install it before March 4, and run [files2020ot/crash_test.ipynb this script]). If you are not familiar with Jupyter notebooks, check out [files2020ot/TP0.ipynb this introduction exercise].
 
 
 ~~~
