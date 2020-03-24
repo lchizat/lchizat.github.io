@@ -18,7 +18,7 @@ Optimal transport is a powerful mathematical theory at the interface between opt
 
 /Language/: The class will be taught in French or English, depending on attendance (all slides and class notes are in English).
 
-/Evaluation/: Practical sessions to finish at home + written in-class exam
+/Evaluation/: Practical sessions to finish at home +  {{<del> written in-class exam </del>}} report on a research article (change due to lockdown!)
 
 
 == Dates
@@ -32,11 +32,26 @@ LN | 5 February | Monge and Kantorovich problems (existence of minimizers, duali
 LC | 26 February | Optimality conditions and consequences (c-concavity, univariate and square cost cases) | [files2020ot/lecture2.pdf lecture2.pdf]||
 LC | 4 March | Wasserstein space (topology, metric, geodesics) \+  _Practical session_ | [files2020ot/lecture3.pdf lecture3.pdf], [files2020ot/TP1.pdf TP1.pdf] ||
 LN | 11 March | Numerical methods (entropic regularization) |[files2020ot/lecture4.pdf lecture4.pdf] ||
-LN | 18 March | Wasserstein barycenters \+  _Practical session_ | ||
-LC | 25 March | Functionals on Wasserstein space (displacement convexity, gradient flows) | ||
+LN | 18 March | Wasserstein barycenters \+  _Practical session_ | [https://www.ceremade.dauphine.fr/~carlier/AC_bary_Aug11_10.pdf (Sections 1,2,3)]||
+LC | 25 March | Functionals on Wasserstein space (displacement convexity, gradient flows) | (Canceled) ||
 LC+LN | 1 April | Active research topics | ||
-| 8 April | Exam |
+| 8 April | {{<del> Exam </del>}} (replaced by report)  |
 ~~~
 
+== List of research papers for the report
+Send us an email to reserve a paper and get the published version. Report due
 
-
+- 1] Korman and McCann (2012). Optimal transportation with capacity constraints.  
+[http://www.math.toronto.edu/mccann/papers/OTCC.pdf pdf]
+- 2] Agueh and Carlier (2010). Barycenters in the Wasserstein space . [https://www.ceremade.dauphine.fr/~carlier/AC_bary_Aug11_10.pdf pdf]
+- 3] Cotar, Friesecke and Klüppelberg (2011). Density Functional Theory and Optimal Transportation with Coulomb Cost. [https://arxiv.org/pdf/1104.0603.pdf pdf]
+- 4] Carlier, Duval, Peyré and Schmitzer (2017). Convergence of entropic schemes for optimal transport and gradient flows.  [https://arxiv.org/pdf/1512.02783.pdf pdf]
+- 5] Buttazzo and Santambrogio (2009). A Mass Transportation Model for the Optimal Planning of an Urban Region. [http://cvgmt.sns.it/media/doc/paper/1015/sigestCVGMT.pdf pdf]
+- 6] Blanchet and Carlier (2012). Optimal Transport and Cournot-Nash equilibria.  [https://www.ceremade.dauphine.fr/~carlier/blanchetcarlierfinal.pdf pdf]
+- 7] Solomon, De Goes,  Peyré, Cuturi, Butscher, Nguyen and Guibas (2015). Convolutional Wasserstein distances: Efficient optimal transportation on geometric domains. [https://hal.archives-ouvertes.fr/hal-01188953 pdf]
+- 8] Niles-Weed and Bach (2017). Sharp asymptotic andfinite-sample rates of convergence of empirical measures in Wasserste in distance. [https://arxiv.org/pdf/1707.00087.pdf pdf]
+- 9] Di marino and Louet (2017). The entropic regularization of the Monge problem on the real line.  [https://arxiv.org/pdf/1703.10457.pdf pdf]
+- 10] Gangbo and Święch (1998). Optimal maps for the multidimensional Monge‐Kantorovich problem.  [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.1489&rep=rep1&type=pdf pdf]
+- 11] Benamou, Carlier and Santambrogio (2016). Variational Mean Field Games. [http://cvgmt.sns.it/media/doc/paper/2979/BenCarSan-v4.pdf pdf]
+- 12] Brenier (1991). Polar factorization and monotone rearrangement of vector‐valued functions. [https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpa.3160440402?casa_token=tbJQnd7MY54AAAAA:Hjt2j5U9cEwVMNysmYAME9n7mTQMCm-Z-pVJigAk67HzFKrXxY3_KDntKS1KL2f55yFjr7BaUYKBppRO pdf]
+- 13] Jordan, Kinderlehrer and Otto (1998). The variational formulation of the Fokker-Planck equation. [https://www-dimat.unipv.it/savare/Ravello2010/JKO.pdf pdf]
