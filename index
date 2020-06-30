@@ -25,14 +25,14 @@ I am interested in the mathematical analysis of data-driven algorithms. More spe
 
 == Recent news
 - (08-05-2020) Talk at [https://www.msri.org/workshops/928 MSRI Hot Topic Workshop] on the "Analysis of Gradient Descent on Wide Two-layer Relu Neural Networks" \[[https://www.msri.org/workshops/928/schedules/28397 video]\] \[[files/presentations/chizat200508msri.pdf slides pdf]\]\[[files/presentations/chizat200508msri.zip slides w/videos zip]\]
-- (17-02-2020) Talk for the Séminaire Parisien de Statistique at Institut Henri Poincaré.
-- (12-02-2020) In a new preprint with Francis Bach, *we characterize the classifier that is learnt by gradient descent on a two-layer neural network* with the logistic loss. This classifier breaks the curse of dimensionality when the data has hidden linear structure. \[[https://arxiv.org/abs/2002.04486 paper]\] \[[files/medias/2020_classif_wide2NN.gif video]\].
-- (14-01-2020) Tutorial on *Optimal Transport Theory for Machine learning* at the Indian Statistical Institute, Kolkata \[[files/presentations/chizat2020ISI.pdf slides]\]. It was part of the workshop on [https://www.isical.ac.in/~caiml/stat-ai-data-science/ Statistics and Artificial Intelligence for Data Science].
-- (09-01-2020) Talk on the *Analysis of Gradient Methods for Wide Two-Layer Neural  Networks* at ICTS, Bangalore. It was part of the workshop on [https://www.icts.res.in/discussion-meeting/SPMML2020 Statistical physics of machine learning]. \[[https://www.youtube.com/watch?v=-Tk1B_H4Kd8&feature=youtu.be video]\] \[[files/presentations/chizat2020ICTS.pdf slides]\].
-- (11-12-2019) Presented our poster *On Lazy Training in Differentiable Programming* at the NeurIPS 2019 conference at Vancouver. \[[files/posters/lazy2019poster.pdf poster]\] \[[https://arxiv.org/abs/1812.07956 paper]\].
-- (05-12-2019) Talk at the MAD seminar, Center for Data Science and Courant Institute, NYU.
-- (28-11-2019) Tutorial on *Non-convex optimization with gradient methods* for the SMILE in Paris seminar \[[files/presentations/chizat191128smile.pdf slides part (II)]\] (see [https://guillaume-garrigos.com/ Guillaume Garrigos webpage] for part (I)).
-- (26-11-2019) Participated to the *Optimization on Measure Space* workshop at the IMT, Toulouse, France. This was the occasion to present in detail my recent work on *Sparse optimization on Measures with over-parameterized gradient descent* \[[files/presentations/chizat191126toulouse.pdf slides]\], \[[https://arxiv.org/abs/1907.10300 paper]\].
+#- (17-02-2020) Talk for the Séminaire Parisien de Statistique at Institut Henri Poincaré.
+#- (12-02-2020) In a new preprint with Francis Bach, *we characterize the classifier that is learnt by gradient descent on a two-layer neural network* with the logistic loss. This classifier breaks the curse of dimensionality when the data has hidden linear structure. \[[https://arxiv.org/abs/2002.04486 paper]\] \[[files/medias/2020_classif_wide2NN.gif video]\].
+#- (14-01-2020) Tutorial on *Optimal Transport Theory for Machine learning* at the Indian Statistical Institute, Kolkata \[[files/presentations/chizat2020ISI.pdf slides]\]. It was part of the workshop on [https://www.isical.ac.in/~caiml/stat-ai-data-science/ Statistics and Artificial Intelligence for Data Science].
+#- (09-01-2020) Talk on the *Analysis of Gradient Methods for Wide Two-Layer Neural  Networks* at ICTS, Bangalore. It was part of the workshop on [https://www.icts.res.in/discussion-meeting/SPMML2020 Statistical physics of machine learning]. \[[https://www.youtube.com/watch?v=-Tk1B_H4Kd8&feature=youtu.be video]\] \[[files/presentations/chizat2020ICTS.pdf slides]\].
+#- (11-12-2019) Presented our poster *On Lazy Training in Differentiable Programming* at the NeurIPS 2019 conference at Vancouver. \[[files/posters/lazy2019poster.pdf poster]\] \[[https://arxiv.org/abs/1812.07956 paper]\].
+#- (05-12-2019) Talk at the MAD seminar, Center for Data Science and Courant Institute, NYU.
+#- (28-11-2019) Tutorial on *Non-convex optimization with gradient methods* for the SMILE in Paris seminar \[[files/presentations/chizat191128smile.pdf slides part (II)]\] (see [https://guillaume-garrigos.com/ Guillaume Garrigos webpage] for part (I)).
+#- (26-11-2019) Participated to the *Optimization on Measure Space* workshop at the IMT, Toulouse, France. This was the occasion to present in detail my recent work on *Sparse optimization on Measures with over-parameterized gradient descent* \[[files/presentations/chizat191126toulouse.pdf slides]\], \[[https://arxiv.org/abs/1907.10300 paper]\].
 
 
 
