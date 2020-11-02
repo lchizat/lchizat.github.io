@@ -41,13 +41,13 @@ I am interested in the mathematical analysis of data-driven algorithms. More spe
 == Publications
 
 2020
-- L. Chizat, P. Roussillon, F. Léger, F-X. Vialard, G. Peyré. *Faster Wasserstein Distance Estimation with the Sinkhorn Divergence.*  Technical report  arXiv:2006.08172, 2020 \[[https://arxiv.org/pdf/2006.08172.pdf pdf]\] \[[files/omelette.png thumbnail]\]
-- K. Nadjahi, A. Durmus, L. Chizat, S. Kolouri, S. Shahrampour, U. Şimşekli. *Statistical and Topological Properties of Sliced Probability Divergences.* Technical report arXiv:2003.05783, 2020 \[[https://arxiv.org/pdf/2003.05783.pdf pdf]\]
+- L. Chizat, P. Roussillon, F. Léger, F-X. Vialard, G. Peyré. *Faster Wasserstein Distance Estimation with the Sinkhorn Divergence.*  To appear in NeuRIPS, 2020 \[[https://arxiv.org/pdf/2006.08172.pdf pdf]\] \[[files/omelette.png thumbnail]\]
+- K. Nadjahi, A. Durmus, L. Chizat, S. Kolouri, S. Shahrampour, U. Şimşekli. *Statistical and Topological Properties of Sliced Probability Divergences.* To appear in NeuRIPS, 2020 \[[https://arxiv.org/pdf/2003.05783.pdf pdf]\]
 - L. Chizat, F. Bach. *Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss.* Proceedings of Thirty Third Conference on Learning Theory, PMLR 125:1305-1338, 2020. \[[https://arxiv.org/pdf/2002.04486.pdf pdf]\] \[[files/medias/2020_classif_wide2NN.gif video]\]
 
 2019
 
-- L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* Technical report arXiv:1907.10300, 2019. \[[https://arxiv.org/pdf/1907.10300.pdf pdf]\] \[[files/medias/2019_sparse2D_25.gif video 1]\] \[[files/medias/2019_sparse2D_100.gif video 2]\]
+- L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* To appear in Mathematical Programming, 2019. \[[https://arxiv.org/pdf/1907.10300.pdf pdf]\] \[[files/medias/2019_sparse2D_25.gif video 1]\] \[[files/medias/2019_sparse2D_100.gif video 2]\]
 - L. Chizat, E.Oyallon, F. Bach. *On Lazy Training in Differentiable Programming.* Advances in Neural Information Processing Systems (NeurIPS), 2019. \[[https://hal.inria.fr/hal-01945578 pdf]\] \[[files/posters/lazy2019poster.pdf poster]\] 
 - A. Genevay, L. Chizat, F. Bach, M. Cuturi, G. Peyré. *Sample Complexity of Sinkhorn divergences.* Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS), 2019. \[[http://proceedings.mlr.press/v89/genevay19a/genevay19a.pdf pdf]\]
 
