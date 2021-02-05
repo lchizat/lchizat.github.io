@@ -25,7 +25,7 @@ I am interested in the mathematical analysis of data-driven algorithms. More spe
 - Spring 2020: [https://www.di.ens.fr/~fbach/ML_physique.html Machine learning - Master ICFP - ENS]
 - Spring 2020: [ot2020orsay.html Optimal Transport - Master Optimisation - Université Paris-Saclay]
 
-== Recent news
+== Selected news
 - (July 13th, 2020) Invited [https://francisbach.com/gradient-descent-for-wide-two-layer-neural-networks-implicit-bias/ blog post] on Francis Bach's research blog, an overview of our recent results on the predictor learnt by two-layer neural networks.
 - (July 8th, 2020) Talk for the workshop [https://www.otra2020.com/ Optimal Transport: Regularization and Applications] on [https://arxiv.org/abs/2006.08172 Faster Wasserstein Distance Estimation with the Sinkhorn Divergence]. \[[files/presentations/chizat200708otra.pdf slides]\] \[[https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37168c31-5a8a-4753-9750-abf2012546ba video]\]
 - (May 8th, 2020) Talk at [https://www.msri.org/workshops/928 MSRI Hot Topic Workshop] on the "Analysis of Gradient Descent on Wide Two-layer Relu Neural Networks" \[[https://www.msri.org/workshops/928/schedules/28397 video]\] \[[files/presentations/chizat200508msri.pdf slides pdf]\]\[[files/presentations/chizat200508msri.zip slides w/videos zip]\]
