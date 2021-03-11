@@ -32,7 +32,7 @@ Optimal transport is a powerful mathematical theory at the interface between opt
 LN | 17 February | Monge and Kantorovich problems (existence of minimizers, duality) | [files2021ot/lecture1.pdf lecture1], [files2021ot/OT_170221.pdf blackboard] ||
 LC | 24 February | Optimality conditions and consequences (c-concavity, univariate and square cost cases) | [files2021ot/lecture2.pdf lecture2] ||
 LN | 3 March | Numerical methods (entropic regularization) | [files2021ot/lecture3.pdf lecture3], [files2021ot/OT_030321.pdf blackboard] ||
-LC | 10 March | Wasserstein space (topology, metric, geodesics, barycenters) \+  _Practical session_  |[files2021ot/TP1.pdf TP1] ||
+LC | 10 March | Wasserstein space (topology, metric, geodesics, barycenters) \+  _Practical session_  |[files2021ot/TP1.pdf TP1], [files2021ot/lecture4.pdf lecture4], [files2021ot/OT_100321.pdf blackboard] ||
 LN | 17 March | Functionals on Wasserstein space (displacement convexity, gradient flows) \+  _Practical session_ | ||
 LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  ||
 | 31 March | (exam week)  |
