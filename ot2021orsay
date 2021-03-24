@@ -34,14 +34,14 @@ LC | 24 February | Optimality conditions and consequences (c-concavity, univaria
 LN | 3 March | Numerical methods (entropic regularization) | [files2021ot/lecture3.pdf lecture3], [files2021ot/OT_030321.pdf blackboard] ||
 LC | 10 March | Wasserstein space (topology, metric, geodesics, barycenters) \+  _Practical session_  |[files2021ot/TP1.pdf TP1], [files2021ot/lecture4.pdf lecture4], [files2021ot/OT_100321.pdf blackboard] ||
 LN | 17 March | Functionals on Wasserstein space (displacement convexity, gradient flows) \+  _Practical session_ |[files2021ot/TP2.pdf TP2], [files2021ot/lecture5.pdf lecture5] ||
-LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  [https://nbviewer.jupyter.org/github/gpeyre/numerical-tours/blob/master/python/optimaltransp_6_entropic_adv.ipynb TP3] ||
+LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  [https://nbviewer.jupyter.org/github/gpeyre/numerical-tours/blob/master/python/optimaltransp_6_entropic_adv.ipynb TP3], [files2021ot/lecture6.pdf lecture6], [files2021ot/OT_240321.pdf blackboard] ||
 | 31 March | (no exam)  |
 ~~~
 
 
 
 == List of research papers for the report
-Send us an email to reserve a paper and get the published version (papers which are already taken are marked as such in the list). You also have the possibility to choose a published article of your choice from the optimal transport literature, send us an email with your suggestion if you wish to do so. Report and practical sessions due on *April 7th*.
+Send us an email to reserve a paper and get the published version (papers which are already taken are marked as such in the list). You also have the possibility to choose a published article of your choice from the optimal transport literature, send us an email with your suggestion if you wish to do so. Report and practical sessions due on *April 7th* via an email addressed to both of us.
 
 - 1] Korman and McCann (2012). Optimal transportation with capacity constraints.  
 [http://www.math.toronto.edu/mccann/papers/OTCC.pdf pdf] (TAKEN)
