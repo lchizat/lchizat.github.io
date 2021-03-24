@@ -34,7 +34,7 @@ LC | 24 February | Optimality conditions and consequences (c-concavity, univaria
 LN | 3 March | Numerical methods (entropic regularization) | [files2021ot/lecture3.pdf lecture3], [files2021ot/OT_030321.pdf blackboard] ||
 LC | 10 March | Wasserstein space (topology, metric, geodesics, barycenters) \+  _Practical session_  |[files2021ot/TP1.pdf TP1], [files2021ot/lecture4.pdf lecture4], [files2021ot/OT_100321.pdf blackboard] ||
 LN | 17 March | Functionals on Wasserstein space (displacement convexity, gradient flows) \+  _Practical session_ |[files2021ot/TP2.pdf TP2], [files2021ot/lecture5.pdf lecture5] ||
-LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  ||
+LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  | [https://nbviewer.jupyter.org/github/gpeyre/numerical-tours/blob/master/python/optimaltransp_6_entropic_adv.ipynb TP3]|
 | 31 March | (no exam)  |
 ~~~
 
