@@ -34,7 +34,7 @@ LC | 24 February | Optimality conditions and consequences (c-concavity, univaria
 LN | 3 March | Numerical methods (entropic regularization) | [files2021ot/lecture3.pdf lecture3], [files2021ot/OT_030321.pdf blackboard] ||
 LC | 10 March | Wasserstein space (topology, metric, geodesics, barycenters) \+  _Practical session_  |[files2021ot/TP1.pdf TP1], [files2021ot/lecture4.pdf lecture4], [files2021ot/OT_100321.pdf blackboard] ||
 LN | 17 March | Functionals on Wasserstein space (displacement convexity, gradient flows) \+  _Practical session_ |[files2021ot/TP2.pdf TP2], [files2021ot/lecture5.pdf lecture5] ||
-LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  [files2021ot/TP3.ipynb TP3 (jupyter notebook format)], [files2021ot/lecture6.pdf lecture6], [files2021ot/OT_240321.pdf blackboard] ||
+LC | 24 March | Divergence between probability measures (MMD, W2, Sinkhorn) \+  _Practical session_ |  [https://nbviewer.jupyter.org/github/gpeyre/numerical-tours/blob/master/python/optimaltransp_6_entropic_adv.ipynb TP3], [files2021ot/TP3.ipynb TP3 (.ipynb)], [files2021ot/lecture6.pdf lecture6], [files2021ot/OT_240321.pdf blackboard] ||
 | 31 March | (no exam)  |
 ~~~
 
@@ -60,7 +60,7 @@ Send us an email to reserve a paper and get the published version (papers which 
 - 14] Backhoff,  Conforti, Gentil, Léonard (2019). The mean field Schr¨odinger problem: ergodic behavior, entropy estimates and functional inequalities. [https://arxiv.org/pdf/1905.02393.pdf pdf]
 - 15] Bigot, Cazelles, Papadakis (2019). Penalization of Barycenters in the Wasserstein Space. [https://www.math.u-bordeaux.fr/~jbigot/Site/Publications_files/RegBar_theory.pdf pdf] (TAKEN)
 - 16] Baradat, Monsaingeon (2019). Small noise limit and convexity for generalized
-incompressible flows, Schrödinger problems, and optimal transport. [https://arxiv.org/pdf/1810.12036.pdf pdf]
+incompressible flows, Schrödinger problems, and optimal transport. [https://arxiv.org/pdf/1810.12036.pdf pdf] (TAKEN)
 - 17] McCann (1997). A Convexity Principle for Interacting Gases. [http://www.math.toronto.edu/mccann/papers/advances.pdf pdf] (TAKEN)
 - 18] Carlier, Galichon, Santambrogio (2009). From Knothe’s transport to Brenier’s map and a continuation method for optimal transport. [https://www.ceremade.dauphine.fr/~carlier/Knothe-Brenier-final.pdf pdf] (TAKEN)
 - 19] Altschuler, Weed, Rigollet (2017). Near-linear time approximation
