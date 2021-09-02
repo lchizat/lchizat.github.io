@@ -6,7 +6,7 @@
 {}{img_left}{files/photo.png}{photo de lenaic}{WIDTHpx}{220px}{files/photo.png}
 
 = Lénaïc Chizat
-I am a tenure track assistant professor at EPFL in the [https://www.epfl.ch/schools/sb/research/math/fr/ Institute of Mathematics], where I lead the DOLA chair (Dynamics of Learning algorithms). Until 2021, I was a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ Laboratoire de mathématiques d'Orsay] at Université Paris-Saclay. In 2018, I was a post-doc researcher at INRIA Paris working with [https://www.di.ens.fr/~fbach/ F. Bach]. In 2017, I have completed a PhD in applied mathematics at Université Paris-Dauphine (CEREMADE) and École Normale Supérieure (DMA) working with [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard]. 
+I am a tenure track assistant professor at EPFL in the [https://www.epfl.ch/schools/sb/research/math/fr/ Institute of Mathematics], where I lead the DOLA chair (Dynamics of Learning algorithms). Until 2021, I was a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/ Laboratoire de mathématiques d'Orsay] at Université Paris-Saclay. In 2018, I was a post-doc researcher at INRIA Paris working with [https://www.di.ens.fr/~fbach/ F. Bach]. In 2017, I have completed a PhD in applied mathematics at Université Paris-Dauphine (CEREMADE) and École Normale Supérieure (DMA) working with [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard].
 
 The ambition of my research is to analyze, develop and improve data-driven algorithms. This locates my interest at the intersection of several mathematical domains: **statistics** because data is involved, **optimization** because minimizing a well-designed objective is often an effective way to extract structure from data, and **mathematical analysis** because the complexity of the models of concern makes it often relevant to treat them as continuous or infinite dimensional objects.
 
@@ -14,9 +14,7 @@ With this general ambition in mind, I am currently working on the following topi
 - optimal transport and divergences between probability distributions; 
 - artificial neural networks (with two, and sometimes more, layers)
 
-
-~~~
-#include{files/email.png}
+To contact me replace letters u by i in the following: lenauc.chuzat@epfl.ch
 
 ~~~
 {}{img_left}{files/email.png}{my email}{WIDTHpx}{20px}{files/email.png} 
