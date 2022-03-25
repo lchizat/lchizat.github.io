@@ -1,0 +1,95 @@
+# jemdoc: analytics{UA-65279943-1}
+
+#CNRS researcher at Laboratoire de Mathématiques d'Orsay
+
+~~~
+{}{img_left}{files/photo.png}{photo de lenaic}{WIDTHpx}{220px}{files/photo.png}
+
+= Lénaïc Chizat
+I am a tenure track assistant professor at EPFL in the [https://www.epfl.ch/schools/sb/research/math/fr/ Institute of Mathematics], where I lead the DOLA chair (Dynamics of Learning algorithms). 
+
+#Until 2021, I was a [https://www.cnrs.fr/en CNRS] researcher at [https://www.math.u-psud.fr/Laboratoire de mathématiques d'Orsay] at Université Paris-Saclay. In 2018, I was a post-doc researcher at INRIA Paris working with [https://www.di.ens.fr/~fbach/ F. Bach]. In 2017, I have completed a PhD in applied mathematics at Université Paris-Dauphine (CEREMADE) and École Normale Supérieure (DMA) working with [http://gpeyre.github.io/ G. Peyré] and [https://www.ceremade.dauphine.fr/~vialard/ F-X. Vialard].
+
+#The ambition of my research is to analyze, develop and improve data-driven algorithms. This locates my interest at the intersection of several mathematical domains: **statistics** because data is involved, **optimization** because minimizing a well-designed objective is often an effective way to extract structure from data, and **mathematical analysis** because the complexity of the models of concern makes it often relevant to treat them as continuous or infinite dimensional objects.
+
+#With this general ambition in mind, I am currently working on the following topics:
+#- optimal transport and divergences between probability distributions; 
+#- artificial neural networks (with two, and sometimes more, layers)
+
+To contact me : firstname.lastname@epfl.ch
+
+~~~
+{}{img_left}{files/email.png}{my email}{WIDTHpx}{20px}{files/email.png} 
+~~~
+
+== Teaching
+- Spring 2021: [https://www.di.ens.fr/~fbach/ML_physique_2021.html Machine learning - Master ICFP - ENS]
+- Spring 2021: [ot2021orsay.html Optimal Transport - Master Optimisation - Université Paris-Saclay]
+- Spring 2020: [https://www.di.ens.fr/~fbach/ML_physique.html Machine learning - Master ICFP - ENS]
+- Spring 2020: [ot2020orsay.html Optimal Transport - Master Optimisation - Université Paris-Saclay]
+
+#== Announcements
+#- (July 1st, 2021) I will join EPFL (Switzerland) in September 2021 as an assistant professor. There, I will be founding the chair of Dynamics of Learning Algorithms in the [https://www.epfl.ch/schools/sb/research/math/fr/ Institute of Mathematics].
+#- (July 13th, 2020) Invited [https://francisbach.com/gradient-descent-for-wide-two-layer-neural-networks-implicit-bias/ blog post] on Francis Bach's research blog, an overview of our recent results on the predictor learnt by two-layer neural networks.
+#- (July 8th, 2020) Talk for the workshop [https://www.otra2020.com/ Optimal Transport: Regularization and Applications] on [https://arxiv.org/abs/2006.08172 Faster Wasserstein Distance Estimation with the Sinkhorn Divergence]. \[[files/presentations/chizat200708otra.pdf slides]\] \[[https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37168c31-5a8a-4753-9750-abf2012546ba video]\]
+#- (May 8th, 2020) Talk at [https://www.msri.org/workshops/928 MSRI Hot Topic Workshop] on the "Analysis of Gradient Descent on Wide Two-layer Relu Neural Networks" \[[https://www.msri.org/workshops/928/schedules/28397 video]\] \[[files/presentations/chizat200508msri.pdf slides pdf]\]\[[files/presentations/chizat200508msri.zip slides w/videos zip]\]
+#- (17-02-2020) Talk for the Séminaire Parisien de Statistique at Institut Henri Poincaré.
+#- (12-02-2020) In a new preprint with Francis Bach, *we characterize the classifier that is learnt by gradient descent on a two-layer neural network* with the logistic loss. This classifier breaks the curse of dimensionality when the data has hidden linear structure. \[[https://arxiv.org/abs/2002.04486 paper]\] \[[files/medias/2020_classif_wide2NN.gif video]\].
+#- (14-01-2020) Tutorial on *Optimal Transport Theory for Machine learning* at the Indian Statistical Institute, Kolkata \[[files/presentations/chizat2020ISI.pdf slides]\]. It was part of the workshop on [https://www.isical.ac.in/~caiml/stat-ai-data-science/ Statistics and Artificial Intelligence for Data Science].
+#- (09-01-2020) Talk on the *Analysis of Gradient Methods for Wide Two-Layer Neural  Networks* at ICTS, Bangalore. It was part of the workshop on [https://www.icts.res.in/discussion-meeting/SPMML2020 Statistical physics of machine learning]. \[[https://www.youtube.com/watch?v=-Tk1B_H4Kd8&feature=youtu.be video]\] \[[files/presentations/chizat2020ICTS.pdf slides]\].
+#- (11-12-2019) Presented our poster *On Lazy Training in Differentiable Programming* at the NeurIPS 2019 conference at Vancouver. \[[files/posters/lazy2019poster.pdf poster]\] \[[https://arxiv.org/abs/1812.07956 paper]\].
+#- (05-12-2019) Talk at the MAD seminar, Center for Data Science and Courant Institute, NYU.
+#- (28-11-2019) Tutorial on *Non-convex optimization with gradient methods* for the SMILE in Paris seminar \[[files/presentations/chizat191128smile.pdf slides part (II)]\] (see [https://guillaume-garrigos.com/ Guillaume Garrigos webpage] for part (I)).
+#- (26-11-2019) Participated to the *Optimization on Measure Space* workshop at the IMT, Toulouse, France. This was the occasion to present in detail my recent work on *Sparse optimization on Measures with over-parameterized gradient descent* \[[files/presentations/chizat191126toulouse.pdf slides]\], \[[https://arxiv.org/abs/1907.10300 paper]\].
+
+
+
+== Publications
+See my [Google Scholar profile for the full list , https://scholar.google.fr/citations?user=jrJh9yIAAAAJ&hl=fr]
+#2021
+#- L.Chizat. *Convergence Rates of Gradient Methods for Convex Optimization in the Space of Measures* Preprint, 2021 \[[https://arxiv.org/abs/2105.08368 arxiv link]\]
+
+#2020
+#- L. Chizat, P. Roussillon, F. Léger, F-X. Vialard, G. Peyré. *Faster Wasserstein Distance Estimation with the Sinkhorn Divergence.*  NeuRIPS, 2020. \[[https://arxiv.org/pdf/2006.08172.pdf pdf]\] \[[files/omelette.png thumbnail]\]
+#- K. Nadjahi, A. Durmus, L. Chizat, S. Kolouri, S. Shahrampour, U. Şimşekli. *Statistical and Topological Properties of Sliced Probability Divergences.* To appear in NeuRIPS, 2020. \[[https://arxiv.org/pdf/2003.05783.pdf pdf]\]
+#- L. Chizat, F. Bach. *Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss.* Proceedings of Thirty Third Conference on Learning Theory, PMLR 125:1305-1338, 2020. \[[https://arxiv.org/pdf/2002.04486.pdf pdf]\] \[[files/medias/2020_classif_wide2NN.gif video]\]
+
+#2019
+
+#- L. Chizat. *Sparse Optimization on Measures with Over-parameterized Gradient Descent.* To appear in Mathematical Programming, 2019. \[[https://arxiv.org/pdf/1907.10300.pdf pdf]\] \[[files/medias/2019_sparse2D_25.gif video 1]\] \[[files/medias/2019_sparse2D_100.gif video 2]\]
+#- L. Chizat, E.Oyallon, F. Bach. *On Lazy Training in Differentiable Programming.* Advances in Neural Information Processing Systems (NeurIPS), 2019. \[[https://hal.inria.fr/hal-01945578 pdf]\] \[[files/posters/lazy2019poster.pdf poster]\] 
+#- A. Genevay, L. Chizat, F. Bach, M. Cuturi, G. Peyré. *Sample Complexity of Sinkhorn divergences.* Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS), 2019. \[[http://proceedings.mlr.press/v89/genevay19a/genevay19a.pdf pdf]\]
+
+#2018
+
+#- L. Chizat, F. Bach. *On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport.* Advances in Neural Information Processing Systems (NeurIPS), 2018. \[[https://hal.archives-ouvertes.fr/hal-01798792/document pdf]\] \[[files/posters/chizatbach2018poster.pdf poster]\] \[[files/medias/2018_regression_wide2NN.gif video]\]
+#- L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard, *Unbalanced Optimal Transport: Dynamic and Kantorovich formulations.* Journal of Functional Analysis, 2018. \[[https://www.sciencedirect.com/science/article/pii/S0022123618301058 article]\] \[[https://arxiv.org/abs/1508.05216 pdf]\]
+#- L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard,  *Scaling Algorithms for Unbalanced Optimal Transport Problems.* Mathematics of Computation, 2018.  \[[https://arxiv.org/abs/1607.05816 pdf]\]
+
+#2017
+
+#- A. Thibault, L. Chizat, C. Dossal, N. Papadakis, *Overrelaxed Sinkhorn-Knopp Algorithm for Regularized Optimal Transport.* Technical report, arXiv-1711.01851, presented at the NIPS 2017 Workshop on Optimal Transport & Machine Learning. \[[https://arxiv.org/abs/1711.01851 pdf]\]
+#- L. Chizat *Unbalanced Optimal Transport: Models, Numerical Methods, Applications.* PhD thesis, PSL Research University, 2017. \[[https://tel.archives-ouvertes.fr/tel-01881166/document pdf]\]
+#- L. Chizat, S. Di Marino, *A tumor growth model of Hele-Shaw type as a gradient flow.* To appear in ESAIM: Control, Optimisation and Calculus of Variations, 2017. \[[https://arxiv.org/abs/1712.06124 pdf]\]
+#- G. Peyré, L. Chizat , F-X. Vialard, J. Solomon, *Quantum Optimal Transport for Tensor Field Processing.* European Journal of Applied Mathematics, 2017. \[[https://arxiv.org/abs/1612.08731 pdf]\]
+
+
+#2016
+
+#- L. Chizat, G. Peyré, B. Schmitzer, F-X. Vialard, *An Interpolating Distance Between Optimal Transport and Fisher–Rao Metrics*, Foundations of Computational Mathematics, 2016. \[[https://arxiv.org/pdf/1506.06430.pdf pdf]\] \[[files/medias/2016_UOT.gif video]\]
+
+== Selection of talks with slides
+Slides sometimes include videos that can be read with Adobe Acrobat (try to click on any image).
+- (July 13th, 2020) Invited [https://francisbach.com/gradient-descent-for-wide-two-layer-neural-networks-implicit-bias/ blog post] on Francis Bach's research blog, an overview of our recent results on the predictor learnt by two-layer neural networks.
+- (July 8th, 2020) Talk for the workshop [https://www.otra2020.com/ Optimal Transport: Regularization and Applications] on [https://arxiv.org/abs/2006.08172 Faster Wasserstein Distance Estimation with the Sinkhorn Divergence]. \[[files/presentations/chizat200708otra.pdf slides]\] \[[https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37168c31-5a8a-4753-9750-abf2012546ba video]\]
+- (May 8th, 2020) Talk at [https://www.msri.org/workshops/928 MSRI Hot Topic Workshop] on the "Analysis of Gradient Descent on Wide Two-layer Relu Neural Networks" \[[https://www.msri.org/workshops/928/schedules/28397 video]\] \[[files/presentations/chizat200508msri.pdf slides pdf]\]\[[files/presentations/chizat200508msri.zip slides w/videos zip]\]
+- 11/2019 *Tutorial on non-convex optimization with gradient methods (II).* (see [https://guillaume-garrigos.com/ Guillaume Garrigos webpage] for part (I)), SMILE in Paris seminar \[[files/presentations/chizat191128smile.pdf slides]\]
+- 11/2019 *Optimization on Measures with Over-parameterized Gradient Descent.* Optimization on Measures workshop, IMT Toulouse \[[files/presentations/chizat191126toulouse.pdf slides]\]
+- 11/2019 *Two analyses for of gradient-based optimization for wide two-layer neural networks.* Theory of Neural Networks seminar, EPFL \[[files/presentations/chizat191105epfl.pdf slides]\]
+- 07/2019 *Theoretical aspects of Neural Networks Optimization.* IISc Bangalore. \[[files/presentations/chizat2019IFCAM_NN.pdf slides]\] \[[files/presentations/chizat2019IFCAM_NN.zip download slides with animations]\]
+- 07/2019 *Tutorial on Optimal Transport with a Machine Learning Touch.* IISc Bangalore. \[[files/presentations/chizat2019IFCAM_OT.pdf slides]\] \[[files/presentations/chizat2019IFCAM_OT.zip download slides with animations]\]
+- 07/2018 *On the Global Convergence of Gradient Descent for Over-parameterized Models.* IFIP conference in Essen. \[[files/chizat2018ifip.zip download slides with animations]\]
+- 02/2018 *A Tutorial on Optimal Transport* with A. Genevay at [https://imaging-in-paris.github.io/seminar/ Imaging in Paris]. \[[files/CHIZAT_imagingParis_080218.pdf slides]\]
+- 11/2017 *Unbalanced Optimal Transport.* PhD Defense at Université Paris Dauphine. \[[files/CHIZAT_soutenance.pdf slides in French]\] \[[chizat2017phddefense.pdf slides in English]\]
+- 09/2017 *A Primer on Optimal Transport*, talk at the [https://www.broadinstitute.org/ Broad institute]'s [https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms MIA seminar] (MIT-Harvard). \[[https://www.youtube.com/watch?v=vJx7NiXFMi8 watch video]\].
+
