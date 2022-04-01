@@ -36,7 +36,7 @@ To contact me : firstname.lastname@epfl.ch
 - [files/CHIZAT_SIAM_2022.pdf Slides] for the best paper award lecture at SIAM-IP 2022 about my research on sparse optimization on measures with overparamterized gradient descent.
 - [files/CHIZAT_neurips_2021.pdf Slides] about estimating optimal transport with entropic regularization
 - [files/CHIZAT_wide_2021.pdf Slides] about infinitely wide two-layer neural networks
-- All the experiments in my papers are reproducible using the codes I post [https://github.com/lchizat on Github]
+- All the numerical experiments in my papers are reproducible using the codes I post [https://github.com/lchizat on Github]
 
 == Miscellaneous
 - My favorite programming language is [https://julialang.org/ Julia] and on occasion I post numerical animations [https://twitter.com/LenaicChizat on Twitter].
