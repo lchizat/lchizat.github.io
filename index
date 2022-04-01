@@ -34,7 +34,7 @@ To contact me : firstname.lastname@epfl.ch
 == Some resources
 - Invited [https://francisbach.com/gradient-descent-for-wide-two-layer-neural-networks-implicit-bias/ blog post] on Francis Bach's research blog, an overview of our recent results on the predictor learnt by two-layer neural networks.
 - [files/CHIZAT_SIAM_2022.pdf Slides] for the best paper award lecture at SIAM-IP 2022 about my research on sparse optimization on measures with overparamterized gradient descent.
-- [files/CHIZAT_neurips_2021 Slides] about estimating optimal transport with entropic regularization
+- [files/CHIZAT_neurips_2021.pdf Slides] about estimating optimal transport with entropic regularization
 - [files/CHIZAT_wide_2021.pdf Slides] about infinitely wide two-layer neural networks
 - All the experiments in my papers are reproducible using the codes I post [https://github.com/lchizat on Github]
 
